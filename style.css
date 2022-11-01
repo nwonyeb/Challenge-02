@@ -1,0 +1,15 @@
+body{
+    background-color: aliceblue;
+    margin:0px
+}
+
+nav{
+    display:flex;
+    justify-content:flex-end;
+}
+
+a nav{
+    margin:20px;
+    padding:20px
+
+}
